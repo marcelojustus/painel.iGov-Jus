@@ -54,15 +54,6 @@ O iGov-Jus é estruturado em **cinco dimensões complementares**:
 
 ¹ "ITP-Jus" é uma abreviação adotada neste estudo para a pontuação do Ranking da Transparência do Poder Judiciário, do CNJ. **Não se trata de um índice oficial do CNJ.**
 
-## Policy paper
- 
-O índice e a agenda de reformas dele decorrente são apresentados no policy paper **Governança do Poder Judiciário: uma abordagem multidimensional para além da produtividade** (agosto de 2026), que reúne a construção metodológica, o exercício exploratório do iGov-Jus e propostas de aperfeiçoamento institucional.
- 
-- **Autores:** Marcelo Justus, Edimara Mezzomo Luciano, Luciano Benetti Timm e Bernardo Geraldini
-- **Formato:** PDF, 29 páginas
-- **Página do projeto:** https://convergenciabrasil.com/governanca-judicial
-- **Download direto:** [Baixar o policy paper (PDF)](https://convergenciabrasil.com/assets/policy-paper-governanca-judicial.pdf)
-
 ## Funcionalidades do painel
 
 O painel é organizado nas seguintes seções:
