@@ -146,7 +146,7 @@ Agradecemos o seu interesse no iGov-Jus. Juntos, podemos fortalecer a governanç
 
 ## Agradecimentos
 
-Os coordenadores do projeto iGov-Jus expressam seu reconhecimento ao Instituto Convergência pelo apoio financeiro destinado à elaboração de um policy paper, que constituiu a base conceitual para a formulação da proposta do iGov-Jus.
+Os coordenadores do projeto iGov-Jus expressam seu reconhecimento ao Instituto [Convergência Brasil](https://convergenciabrasil.com/) pelo apoio financeiro destinado à elaboração de um policy paper, que constituiu a base conceitual para a formulação da proposta do iGov-Jus.
 
 ## Financiamento e independência institucional
 
