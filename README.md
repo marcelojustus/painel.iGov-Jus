@@ -142,7 +142,7 @@ O Painel iGov-Jus é um projeto em constante aprimoramento e recebe com interess
 
 Sinta-se à vontade para explorar o painel, consultar a seção de Metodologia, sugerir melhorias, apontar inconsistências nos dados ou propor novas dimensões de análise. As contribuições podem ser enviadas por meio das *issues* do repositório ou pelos canais de contato indicados neste documento.
 
-## Agradecimentos:
+## Agradecimentos
 
 Os coordenadores do projeto iGov-Jus expressam seu reconhecimento ao Instituto Convergência pelo apoio financeiro destinado à elaboração de um policy paper, que constituiu a base conceitual para a formulação da proposta do iGov-Jus.
 
