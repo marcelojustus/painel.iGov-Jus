@@ -124,7 +124,7 @@ Ao utilizar os dados do CNJ, cite também: CONSELHO NACIONAL DE JUSTIÇA. *Justi
 - Parte dos indicadores está disponível apenas para o ano de 2024, o que limita análises longitudinais.
 - Os resultados dependem das escolhas metodológicas descritas acima, em especial a especificação do modelo DEA.
 
-## Referências principais
+## Principais Referências
 
 - AKUTSU, L.; GUIMARÃES, T. A. Governança judicial: proposta de modelo teórico-metodológico. *Revista de Administração Pública*, v. 49, n. 4, p. 937–958, 2015.
 - CONSELHO NACIONAL DE JUSTIÇA. *Justiça em Números 2025*. Brasília: CNJ, 2025.
