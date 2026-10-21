@@ -144,6 +144,10 @@ Sinta-se à vontade para explorar o painel, consultar a seção de Metodologia, 
 
 Agradecemos o seu interesse no iGov-Jus. Juntos, podemos fortalecer a governança do Poder Judiciário e ampliar a transparência e a qualidade da prestação jurisdicional no Brasil.
 
+## Repercussão na mídia
+
+A cobertura da imprensa e a divulgação do estudo nas redes sociais estão reunidas na página [Na mídia](https://github.com/marcelojustus/painel.iGov-Jus/wiki/Na-m%C3%ADdia) da Wiki do repositório.
+
 ## Agradecimentos
 
 Os coordenadores do projeto iGov-Jus expressam seu reconhecimento ao Instituto [Convergência Brasil](https://convergenciabrasil.com/) pelo apoio financeiro destinado à elaboração de um policy paper, que constituiu a base conceitual para a formulação da proposta do iGov-Jus.
