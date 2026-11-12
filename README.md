@@ -159,7 +159,7 @@ O projeto iGov-Jus não dispõe, atualmente, de financiamento público ou privad
 
 ## Licença
 
-[Painel iGov-Jus: Índice Amplo de Governança da Justiça](https://marcelojustus.github.io/painel.iGov-Jus/) © 2026 por [Marcelo Justus](https://www.marcelojustus.com/) está licenciado sob [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+[Painel iGov-Jus: Índice Amplo de Governança da Justiça](https://marcelojustus.github.io/painel.iGov-Jus/) © 2026 por [Marcelo Justus](https://www.marcelojustus.com/), Luciano Benetti Timm, [Luis Felipe de Souza Rodrigues](https://luisfelipe-rodri.github.io/site.pessoal/) e Bernardo Geraldini está licenciado sob [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
  
 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"></a>
  
